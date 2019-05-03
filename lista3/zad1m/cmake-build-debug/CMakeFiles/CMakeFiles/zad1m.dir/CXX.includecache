@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/lab/asd/lista3/zad1m/zad1.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+string
+-
+../zad2/PriorityQueue.h
+C:/lab/asd/lista3/zad2/PriorityQueue.h
+../zad2/graphs.h
+C:/lab/asd/lista3/zad2/graphs.h
+
+C:/lab/asd/lista3/zad2/PriorityQueue.h
+iostream
+-
+vector
+-
+string
+-
+
+C:/lab/asd/lista3/zad2/graphs.h
+vector
+-
+string
+-
+limits
+-
+../zad2/PriorityQueue.h
+C:/lab/asd/lista3/zad2/PriorityQueue.h
+

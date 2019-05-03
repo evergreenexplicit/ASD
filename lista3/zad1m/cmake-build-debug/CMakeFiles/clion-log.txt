@@ -1,0 +1,6 @@
+C:\Users\konra\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.5107.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\lab\asd\lista3\zad1m
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.14 or higher is required.  You are running version 3.12.3
+
+
+-- Configuring incomplete, errors occurred!

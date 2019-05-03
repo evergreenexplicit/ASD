@@ -1,0 +1,4 @@
+C:\Users\konra\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.5107.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\lab\asd\lista3\zad1m
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/lab/asd/lista3/zad1m/cmake-build-debug/CMakeFiles

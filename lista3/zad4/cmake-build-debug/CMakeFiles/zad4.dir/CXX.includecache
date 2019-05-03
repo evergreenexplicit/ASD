@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/lab/asd/lista3/zad4/PriorityQueue.h
+iostream
+-
+vector
+-
+string
+-
+
+C:/lab/asd/lista3/zad4/graphsSCC.h
+vector
+-
+string
+-
+limits
+-
+PriorityQueue.h
+C:/lab/asd/lista3/zad4/PriorityQueue.h
+
+C:/lab/asd/lista3/zad4/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+graphsSCC.h
+C:/lab/asd/lista3/zad4/graphsSCC.h
+timer.h
+C:/lab/asd/lista3/zad4/timer.h
+
+C:/lab/asd/lista3/zad4/timer.h
+chrono
+-
+

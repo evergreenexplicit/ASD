@@ -1,0 +1,95 @@
+Component nr 5
+7
+Component nr 4
+6 5
+Component nr 2
+0 4 1
+Component nr 7
+3 2
+
+
+prim
+(8,1) -2
+(7,8) 1
+(6,7) 2
+(2,1) 4
+(3,7) 4
+(9,3) 0
+(4,3) 7
+(5,4) 9
+sum:25
+time in ms  = 0
+
+Process finished with exit code 0
+
+krusgal
+(1,8) -2
+(9,3) 0
+(8,7) 1
+(6,7) 2
+(3,7) 4
+(1,2) 4
+(4,3) 7
+(5,4) 9
+sum:25
+time in ms  = 0
+
+7 18
+1 2 9
+2 1 9
+2 3 6
+3 2 6
+3 4 15
+4 3 15
+4 5 7
+5 4 7
+5 1 14
+1 5 14
+1 6 0
+6 1 0
+
+
+1 0path to 1 = 0
+
+path to 2 = 9
+2 9
+1 | dist: 0
+3 11
+2 | dist: 9
+4 10
+path to 3 = 11
+5 9
+1 | dist: 0
+6 0
+6 | dist: 0
+7 inf
+3 | dist: 11
+
+path to 4 = 10
+time in ms = 0
+1 | dist: 0
+6 | dist: 0
+4 | dist: 10
+path to 5 = 9
+1 | dist: 0
+6 | dist: 0
+5 | dist: 9
+path to 6 = 0
+1 | dist: 0
+6 | dist: 0
+path to 7 = inf
+
+9 13
+1 2 4
+1 8 -2
+2 3 8
+2 8 11
+8 9 7
+9 7 6
+7 8 1
+9 3 0
+3 7 4
+6 7 2
+3 4 7
+4 5 9
+5 6 10

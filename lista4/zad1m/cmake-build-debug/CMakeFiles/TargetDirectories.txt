@@ -1,0 +1,3 @@
+C:/lab/asd/lista4/zad1m/cmake-build-debug/CMakeFiles/zad1m.dir
+C:/lab/asd/lista4/zad1m/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/lab/asd/lista4/zad1m/cmake-build-debug/CMakeFiles/rebuild_cache.dir

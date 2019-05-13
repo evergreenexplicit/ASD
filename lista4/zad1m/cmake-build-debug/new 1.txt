@@ -1,0 +1,153 @@
+Typ:bst
+Total time in s = 0.050171
+Insert: number 229
+	 cmp:10420, 0.308375%, avg 45.5022ms,
+	 Mod:687, 0.390785%, avg3
+	 Time:0.000995, 0.0198322%, avg:0.00434498
+Delete: number 229 
+	cmp:5331, 0.157769%, avg 23.2795ms  
+	Mod:1071, 0.609215%, avg4.67686 
+	Time:0.000998, 0.019892%, avg:0.00435808
+Search: number 603 
+	cmp:18039, 0.533856%, avg 29.9154
+	Time:0.001026, 0.0204501%, avg:0.00170149
+Typ:bst
+Total time in s = 0.052545
+Insert: number 229
+	 cmp:10420, 0.308375%, avg 45.5022ms,
+	 Mod:687, 0.390785%, avg3
+	 Time:0.002026, 0.0385574%, avg:0.00884716
+Delete: number 229 
+	cmp:5331, 0.157769%, avg 23.2795ms  
+	Mod:1071, 0.609215%, avg4.67686 
+	Time:0, 0%, avg:0
+Search: number 603 
+	cmp:18039, 0.533856%, avg 29.9154
+	Time:0, 0%, avg:0
+
+
+Typ:bst
+Total time in s = 0.049938
+Insert: number 229
+	 cmp:10420, 0.308375%, avg 45.5022ms,
+	 Mod:687, 0.390785%, avg3
+	 Time:0.001988, 0.0398094%, avg:0.00868122
+Delete: number 229 
+	cmp:5331, 0.157769%, avg 23.2795ms  
+	Mod:1071, 0.609215%, avg4.67686 
+	Time:0, 0%, avg:0
+Search: number 603 
+	cmp:18039, 0.533856%, avg 29.9154
+	Time:0, 0%, avg:0
+
+
+Typ:bst
+Total time in s = 0
+Insert: number 0
+	 cmp:0, nan%, avg nanms,
+	 Mod:0, nan%, avgnan
+	 Time:0, nan%, avg:nan
+Delete: number 0 
+	cmp:0, nan%, avg nanms  
+	Mod:0, nan%, avgnan 
+	Time:0, nan%, avg:nan
+Search: number 0 
+	cmp:0, nan%, avg nan
+	Time:0, nan%, avg:nan
+
+
+Typ:bst
+Total time in s = 0.000998
+Insert: number 229
+	 cmp:10420, 0.308375%, avg 45.5022ms,
+	 Mod:687, 0.390785%, avg3
+	 Time:0, 0%, avg:0
+Delete: number 229 
+	cmp:5331, 0.157769%, avg 23.2795ms  
+	Mod:1071, 0.609215%, avg4.67686 
+	Time:0, 0%, avg:0
+Search: number 603 
+	cmp:18039, 0.533856%, avg 29.9154
+	Time:0.000998, 1%, avg:0.00165506
+
+
+Typ:bst//lotr?
+Total time in s = 77.2229
+Insert: number 771553
+	 cmp:2592300874, 0.867011%, avg 3359.85ms,
+	 Mod:2314659, 0.31472%, avg3
+	 Time:71.3808, 0.924347%, avg:0.0925157
+Delete: number 771553 
+	cmp:82736733, 0.0276718%, avg 107.234ms  
+	Mod:5039998, 0.68528%, avg6.53228 
+	Time:2.17419, 0.0281547%, avg:0.00281794
+Search: number 2082544 
+	cmp:314889781, 0.105317%, avg 151.204
+	Time:3.66794, 0.047498%, avg:0.00176128
+
+
+Typ:bst//kjb
+Total time in s = 2948.25
+Insert: number 3410763
+	 cmp:78183205296, 0.889748%, avg 22922.5ms,
+	 Mod:10232289, 0.312989%, avg3
+	 Time:2758.8, 0.935742%, avg:0.808851
+Delete: number 3410763 
+	cmp:3036234209, 0.0345532%, avg 890.192ms  
+	Mod:22459848, 0.687011%, avg6.58499 
+	Time:79.1042, 0.0268309%, avg:0.0231925
+Search: number 8985734 
+	cmp:6651728767, 0.0756986%, avg 740.254
+	Time:110.344, 0.037427%, avg:0.0122799
+
+
+Typ:bst // aspellwordlist
+Total time in s = 37333.6
+Insert: number 1051885
+	 cmp:1106464156994, 0.333334%, avg 1.05189e+006ms,
+	 Mod:3155655, 0.5%, avg3
+	 Time:19036.9, 0.509914%, avg:18.0979
+Delete: number 1051885 
+	cmp:7363195, 2.21824e-006%, avg 7ms  
+	Mod:3155654, 0.5%, avg3 
+	Time:0.532488, 1.4263e-005%, avg:0.000506223
+Search: number 3155655 
+	cmp:2212914317593, 0.666664%, avg 701254
+	Time:18296.2, 0.490072%, avg:5.7979
+
+
+Typ:bst
+Total time in s = 10.2411
+Insert: number 1051885
+	 cmp:199244986, 0.282341%, avg 189.417ms,
+	 Mod:3155655, 0.335051%, avg3
+	 Time:4.36261, 0.42599%, avg:0.00414742
+Delete: number 1051885 
+	cmp:56871143, 0.0805895%, avg 54.0659ms  
+	Mod:6262784, 0.664949%, avg5.95387 
+	Time:1.67282, 0.163344%, avg:0.00159031
+Search: number 3155655 
+	cmp:449573516, 0.63707%, avg 142.466
+	Time:4.20569, 0.410667%, avg:0.00133275
+
+
+Typ:bst
+Total time in s = 73.8828
+Insert: number 771553
+	 cmp:2592300874, 0.867011%, avg 3359.85ms,
+	 Mod:2314659, 0.31472%, avg3
+	 Time:68.403, 0.925831%, avg:0.0886562
+Delete: number 771553 
+	cmp:82736733, 0.0276718%, avg 107.234ms  
+	Mod:5039998, 0.68528%, avg6.53228 
+	Time:2.00514, 0.0271395%, avg:0.00259884
+Search: number 2082544 
+	cmp:314889781, 0.105317%, avg 151.204
+	Time:3.47469, 0.0470297%, avg:0.00166848
+
+
+
+/przez 3 i bedzie ok, przed return node bylo
+
+                 srNum++;
+                 srCmp+=cmp;

@@ -1,0 +1,88 @@
+Typ:bst//lotr?
+Total time in s = 77.2229
+Insert: number 771553
+	 cmp:2592300874, 0.867011%, avg 3359.85ms,
+	 Mod:2314659, 0.31472%, avg3
+	 Time:71.3808, 0.924347%, avg:0.0925157
+Delete: number 771553 
+	cmp:82736733, 0.0276718%, avg 107.234ms  
+	Mod:5039998, 0.68528%, avg6.53228 
+	Time:2.17419, 0.0281547%, avg:0.00281794
+Search: number 771553 
+	cmp:124 462 364 avg 161
+	Time:3.66794, 0.047498%, avg:0.00176128
+
+
+Typ:bst//kjb
+Total time in s = 2948.25
+Insert: number 3410763
+	 cmp:78183205296, 0.889748%, avg 22922.5ms,
+	 Mod:10232289, 0.312989%, avg3
+	 Time:2758.8, 0.935742%, avg:0.808851
+Delete: number 3410763 
+	cmp:3036234209, 0.0345532%, avg 890.192ms  
+	Mod:22459848, 0.687011%, avg6.58499 
+	Time:79.1042, 0.0268309%, avg:0.0231925
+Search: number 3410763 
+	cmp:2 629 141 805,  avg 770
+	Time:110.344, 0.037427%, avg:0.0122799
+
+
+Typ:bst // aspellwordlist
+Total time in s = 37333.6
+Insert: number 1051885
+	 cmp:1106464156994, 0.333334%, avg 1.05189e+006ms,
+	 Mod:3155655, 0.5%, avg3
+	 Time:19036.9, 0.509914%, avg:18.0979
+Delete: number 1051885 
+	cmp:7363195, 2.21824e-006%, avg 7ms  
+	Mod:3155654, 0.5%, avg3 
+	Time:0.532488, 1.4263e-005%, avg:0.000506223
+Search: number 1051885 
+	cmp:874 669 690 748, avg 831 525
+	Time:18296.2, 0.490072%, avg:5.7979
+    
+    
+    Typ:bst // BALANCED
+Total time in s = 418.923
+Insert: number 8191
+	 cmp:204802, 0.30782%, avg 25.0033ms,
+	 Mod:24573, 0.35443%, avg3
+	 Time:145.188, 0.339285%, avg:17.7253
+Delete: number 8191 
+	cmp:210658, 0.316622%, avg 25.7182ms  
+	Mod:44758, 0.64557%, avg5.46429 
+	Time:139.228, 0.325357%, avg:16.9977
+Search: number 8191 
+	cmp:249870, 0.375558%, avg 30.5054
+	Time:143.507, 0.335358%, avg:17.5201
+    
+    Typ:bst // random wordlist
+Total time in s = 9.81816
+Insert: number 1051885
+	 cmp:199244986, 0.435671%, avg 189.417ms,
+	 Mod:3155655, 0.335051%, avg3
+	 Time:4.20143, 0.427925%, avg:0.00399419
+Delete: number 1051885 
+	cmp:56871143, 0.124355%, avg 54.0659ms  
+	Mod:6262784, 0.664949%, avg5.95387 
+	Time:1.57346, 0.160261%, avg:0.00149585
+Search: number 1051885 
+	cmp:201212374, 0.439973%, avg 191.287
+	Time:4.04327, 0.411815%, avg:0.00384383
+    
+    
+    
+    Typ:bst // mirror
+Total time in s = 3.07576
+Insert: number 395623
+	 cmp:65764954, 0.490515%, avg 166.231ms,
+	 Mod:1186869, 0.322467%, avg3
+	 Time:1.41342, 0.459535%, avg:0.00357264
+Delete: number 395623 
+	cmp:19141397, 0.142768%, avg 48.3829ms  
+	Mod:2493720, 0.677533%, avg6.30327 
+	Time:0.562356, 0.182835%, avg:0.00142144
+Search: number 395623 
+	cmp:49167049, 0.366717%, avg 124.278
+	Time:1.09998, 0.35763%, avg:0.00278039

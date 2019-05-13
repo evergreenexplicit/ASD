@@ -1,0 +1,87 @@
+Typ:rbt //aspell_wordlist
+Total time in s = 5.4761
+Insert: number 1051885
+	 cmp:94166346, 0.44742%, avg 89.5215ms,
+	 Mod:16303773, 0.614664%, avg15.4996
+	 Time:2.23909, 0.408884%, avg:0.00212865
+Delete: number 1051885 
+	cmp:73328703, 0.348412%, avg 69.7117ms  
+	Mod:10220927, 0.385336%, avg9.71677 
+	Time:1.87519, 0.342431%, avg:0.00178269
+Search: number 1051885 
+	cmp:42970314, 0.204168%, avg 40.8508
+	Time:1.36182, 0.248685%, avg:0.00129465
+    
+    
+Typ:rbt // KJB.txt
+Total time in s = 17.6424
+Insert: number 3410763
+	 cmp:278055155, 0.461645%, avg 81.5229ms,
+	 Mod:59366140, 0.633232%, avg17.4055
+	 Time:7.52994, 0.426809%, avg:0.0022077
+Delete: number 3410763 
+	cmp:201804071, 0.335048%, avg 59.1668ms  
+	Mod:34384891, 0.366768%, avg10.0813 
+	Time:5.47085, 0.310096%, avg:0.00160399
+Search: number 3410763 
+	cmp:122454459, 0.203307%, avg 35.9024
+	Time:4.64164, 0.263095%, avg:0.00136088
+    
+    Typ:rbt lotr.txt
+Total time in s = 3.72493
+Insert: number 771553
+	 cmp:54641242, 0.445989%, avg 70.8198ms,
+	 Mod:13120833, 0.624642%, avg17.0057
+	 Time:1.5437, 0.414426%, avg:0.00200078
+Delete: number 771553 
+	cmp:42797893, 0.349322%, avg 55.4698ms  
+	Mod:7884532, 0.375358%, avg10.219 
+	Time:1.17311, 0.314935%, avg:0.00152045
+Search: number 771553 
+	cmp:25077985, 0.20469%, avg 32.5033
+	Time:1.00811, 0.27064%, avg:0.0013066
+    
+Typ:rbt random wordlist.txt
+Total time in s = 5.0252
+Insert: number 1051885
+	 cmp:63965403, 0.371055%, avg 60.8103ms,
+	 Mod:16170006, 0.577335%, avg15.3724
+	 Time:1.85095, 0.368333%, avg:0.00175965
+Delete: number 1051885 
+	cmp:64259190, 0.372759%, avg 61.0896ms  
+	Mod:11837997, 0.422665%, avg11.2541 
+	Time:1.68047, 0.334408%, avg:0.00159758
+Search: number 1051885 
+	cmp:44163215, 0.256185%, avg 41.9848
+	Time:1.49379, 0.297259%, avg:0.0014201
+    
+    
+    
+    Typ:rbt balanced
+Total time in s = 426.148
+Insert: number 8191
+	 cmp:431798, 0.413738%, avg 52.7162ms,
+	 Mod:100453, 0.6178%, avg12.2638
+	 Time:141.724, 0.332569%, avg:17.3024
+Delete: number 8191 
+	cmp:356366, 0.341461%, avg 43.507ms  
+	Mod:62145, 0.3822%, avg7.58699 
+	Time:142.646, 0.334734%, avg:17.415
+Search: number 8191 
+	cmp:255486, 0.2448%, avg 31.1911
+	Time:141.778, 0.332697%, avg:17.309
+    
+    
+    Typ:rbt mirror
+Total time in s = 1.69069
+Insert: number 395623
+	 cmp:24623316, 0.414021%, avg 62.2393ms,
+	 Mod:6362056, 0.573428%, avg16.0811
+	 Time:0.672975, 0.398046%, avg:0.00170105
+Delete: number 395623 
+	cmp:22215589, 0.373537%, avg 56.1534ms  
+	Mod:4732719, 0.426572%, avg11.9627 
+	Time:0.546725, 0.323373%, avg:0.00138193
+Search: number 395623 
+	cmp:12634689, 0.212442%, avg 31.9362
+	Time:0.470995, 0.278581%, avg:0.00119051

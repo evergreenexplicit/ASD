@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/lab/asd/lista5/zad2/BGraph.h
+iostream
+-
+vector
+-
+string
+-
+cmath
+-
+algorithm
+-
+queue
+-
+fstream
+-
+
+C:/lab/asd/lista5/zad2/Timer.h
+chrono
+-
+
+C:/lab/asd/lista5/zad2/main.cpp
+iostream
+-
+time.h
+-
+fstream
+-
+BGraph.h
+C:/lab/asd/lista5/zad2/BGraph.h
+Timer.h
+C:/lab/asd/lista5/zad2/Timer.h
+
